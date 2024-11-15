@@ -1,0 +1,120 @@
+.encabezado{
+    background-color: black;
+    height: 75px;
+    display:flex;
+    justify-content: center;
+    justify-items:center    ;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.apartados{
+    width: 300px;
+    height: 40px;
+    display:flex;
+}
+.mprincipal{
+    background-color:aliceblue;
+    width: 100px;
+    height: 20px;
+}
+#principal{
+    font-size: 12px;
+}
+.mcomida{
+    background-color:antiquewhite;
+    width: 100px;
+    height: 20px;
+}
+#comida{
+    font-size: 12px;
+}
+.gale{
+    background-color:bisque;
+    width: 100px;
+    height: 20px;
+}
+#galeria{
+    font-size: 12px;
+}
+
+.letrass{
+    color:burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.descuentos{
+    background-color:rgb(197, 136, 62);
+    width: 100px;
+    height: 20px;
+}
+#descuentos{
+    font-size: 12px;
+}
+#Contenido{
+    background-color: aqua;
+    width:auto;
+    height:auto;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.datosdelautor{
+    background-color:black;
+    width: auto;
+    height: 75px;
+    display: flex; 
+    justify-content: center;
+}
+#nombre{
+    background-color:blueviolet;
+    width: 80px;
+    height: 20px;
+}
+#materia{
+    background-color:blueviolet;
+    width: 130px;
+    height: 20px;
+}
+#telefonoa{
+    background-color:blueviolet;
+    width: 80px;
+    height: 20px;
+}
+.doce{
+    font-size: 10px;
+    color: aqua;
+}
+#correo{
+    background-color:rgb(116, 8, 217);
+    width: 150px;
+    height: 20px;
+}
+#tit{
+    background-color:black;
+    height: 80px;
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#mvo{
+    background-color:rgb(198, 24, 251);
+}
+.fondo{
+    padding: 50px;
+    background-color: aqua;
+}
+#piepag{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: aliceblue;
+    background-color:black;    
+}
+.bloque{
+    display: flex;
+}
+.estilo{
+    color: chocolate;
+    font-size: 30px;
+}
